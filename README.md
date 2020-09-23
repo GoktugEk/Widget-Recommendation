@@ -1,2 +1,2 @@
 # Widget-Recommendation
-widget Recommendation Alogrithm for Jotform
+Widget Recommendation Alogrithm for Jotform
